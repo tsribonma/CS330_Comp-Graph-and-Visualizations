@@ -5,9 +5,9 @@ CS-330-11584-M01<br>
 Professor Malcolm Wabara<br>
 Tricia Ann Sribonma<br>
 August 25th, 2024
-<p>
+<p></p><p></p>
   
-</p><b>How do I approach designing software?</b><br><p></p>
+<b>How do I approach designing software?</b><br>
 When it comes to designing software, I dive into the process with the enthusiasm of a kid at a candy store, but with a toolkit instead of a sugar rush. I break down complex functionalities into bite-sized, manageable chunks, much like how IKEA’s instruction manual turns an entire flat-pack into a piece of furniture. This modular approach ensures that everything fits together seamlessly, avoiding the infamous “extra screws” scenario. My recent project has fine-tuned my ability to integrate various components while sticking to design principles that keep things simple and effective, just like how Google manages to pack a world of features into a minimalistic search bar.<p></p>
 
 <b>How do I approach developing programs?</b><br>
